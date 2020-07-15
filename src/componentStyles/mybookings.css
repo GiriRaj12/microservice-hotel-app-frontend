@@ -1,0 +1,31 @@
+.total-amount-spent{
+    float: left;
+    margin-left: 20px;  
+    padding: 20px;  
+}
+.mybooking-headding{
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.individual-bookings{
+    margin-top: 20px;
+    padding: 20px;
+    width: 60%;
+    background-color: white;
+    height: 240px;
+    border-radius: 8px;
+    margin-left: 2%;
+}
+.room-image{
+    float: left;
+    padding: 20px;
+    box-shadow: 0 1px 10px 0.2px rgba(41,85,115,.21);
+    margin: 30px;
+ }
+ .booking-container{
+     margin-top: 120px;
+     overflow: scroll;
+ }

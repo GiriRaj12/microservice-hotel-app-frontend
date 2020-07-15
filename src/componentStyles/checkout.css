@@ -1,0 +1,25 @@
+.checkout-box{
+    height: 420px;
+    width: 60%;
+    background-color: white;
+    margin-top: 200px;
+    margin-left: 10%;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px 0 rgb(104, 104, 104);
+}
+.checkout-details{
+    padding: 20px;
+}
+
+.set-number-tag{
+    padding: 10px;
+}
+
+.set-date-tag{
+    padding: 10px;
+}
+.selectButtons{
+    padding: 10px;
+    margin-left: 42%;
+}

@@ -1,0 +1,28 @@
+
+.individual-rooms{
+    width: 80%;
+    height: 260px;
+    background-color: white;
+    border-radius: 8px;
+    margin-left: 2%;
+    margin-top: 20px;
+}
+
+.room-image{
+   float: left;
+   padding: 20px;
+   box-shadow: 0 1px 10px 0.2px rgba(41,85,115,.21);
+   margin: 30px;
+}
+
+.room-extra-details{
+    padding: 10px;
+}
+
+.room-details-division{
+    padding: 20px;
+}
+
+.room-details{
+    padding: 15px;
+}
