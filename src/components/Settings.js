@@ -1,8 +1,8 @@
-import React,{useState} from 'react';
+import React, { useState } from 'react';
 
-function Settings(props){
+function Settings(props) {
     return (<div>
-       
+
     </div>)
 }
 export default Settings;
