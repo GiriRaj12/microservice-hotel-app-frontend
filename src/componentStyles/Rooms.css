@@ -26,3 +26,10 @@
 .room-details{
     padding: 15px;
 }
+
+@media only screen and (max-width:1150px){
+    .individual-rooms{
+        width: 70%;
+        margin-left:3%;
+    }
+}
